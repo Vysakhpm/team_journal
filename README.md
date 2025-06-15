@@ -1,6 +1,9 @@
 # Team Journal - Personal Journal Application
 
+![Screenshot 2025-06-15 231021](https://github.com/user-attachments/assets/eb072041-9c81-46d7-a731-0f76cf5b97d2)
 A full-stack Next.js application for personal journaling with image support.
+![Screenshot 2025-06-15 231103](https://github.com/user-attachments/assets/75ddcd2f-0379-4c14-ab93-d08ddf319404)
+![Screenshot 2025-06-15 231115](https://github.com/user-attachments/assets/f1d53cda-96ef-4877-a254-486772aebf44)
 
 ![Team Journal](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-3-cyan) ![Supabase](https://img.shields.io/badge/Supabase-Ready-green)
 
